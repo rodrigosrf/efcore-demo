@@ -1,0 +1,11 @@
+D:\Dev\efcore-demo\EFCore.Demo.Domain\bin\Debug\net7.0\EFCore.Demo.Domain.deps.json
+D:\Dev\efcore-demo\EFCore.Demo.Domain\bin\Debug\net7.0\EFCore.Demo.Domain.dll
+D:\Dev\efcore-demo\EFCore.Demo.Domain\bin\Debug\net7.0\EFCore.Demo.Domain.pdb
+D:\Dev\efcore-demo\EFCore.Demo.Domain\obj\Debug\net7.0\EFCore.Demo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\efcore-demo\EFCore.Demo.Domain\obj\Debug\net7.0\EFCore.Demo.Domain.AssemblyInfoInputs.cache
+D:\Dev\efcore-demo\EFCore.Demo.Domain\obj\Debug\net7.0\EFCore.Demo.Domain.AssemblyInfo.cs
+D:\Dev\efcore-demo\EFCore.Demo.Domain\obj\Debug\net7.0\EFCore.Demo.Domain.csproj.CoreCompileInputs.cache
+D:\Dev\efcore-demo\EFCore.Demo.Domain\obj\Debug\net7.0\EFCore.Demo.Domain.dll
+D:\Dev\efcore-demo\EFCore.Demo.Domain\obj\Debug\net7.0\refint\EFCore.Demo.Domain.dll
+D:\Dev\efcore-demo\EFCore.Demo.Domain\obj\Debug\net7.0\EFCore.Demo.Domain.pdb
+D:\Dev\efcore-demo\EFCore.Demo.Domain\obj\Debug\net7.0\ref\EFCore.Demo.Domain.dll
